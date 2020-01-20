@@ -1,0 +1,62 @@
+.task
+{
+  display: flex;
+  padding-left: 20px;
+  border-bottom: 1px solid grey;
+  align-items: center;
+  
+}
+.fa-trash-alt {
+  
+  color: red;
+  margin-left: 20px;
+   font-size: 26px;
+}
+.fa-edit {
+  color: #5BE01F;
+   font-size: 26px;
+}
+
+
+ .fa-check-circle
+ {
+  font-size: 26px;
+  color: white;
+
+ }
+
+
+p
+{
+  font-size: 22px;
+  width:80%
+
+}
+
+input
+{
+   font-size: 22px;
+  width:80%
+}
+
+.green-tick
+{
+  color: green;
+}
+
+.underlined
+{
+  text-decoration: line-through;
+
+}
+
+.bgCompleted
+{
+  background-color: #ECF0F1;
+}
+
+
+.showed
+{
+  display: none;
+}

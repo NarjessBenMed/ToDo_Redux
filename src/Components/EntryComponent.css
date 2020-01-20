@@ -1,0 +1,44 @@
+
+.entryBloc
+{
+margin-left: 300px;
+margin-right: 300px;
+display: flex;
+flex-direction: column;
+margin-top: 100px;
+
+}
+
+.addButton
+{
+    background-color:#30A64A;
+    width: 10%;
+    border: 1px solid  #30A64A ;
+    color :white;
+    font-size: 26px;
+}
+
+.entry
+{
+    width:90%;
+    height: 40px;
+
+}
+
+
+.listTitle
+{
+background-color: #35495D;
+padding-top: 20px;
+height: 80px;
+color: white;
+font-size: 26px;
+text-align: center;
+
+}
+
+.AddEntry
+{
+    display: flex;
+
+}
